@@ -1,8 +1,7 @@
 # increase_decrase_app
 
 it is about increase and decrease a number. 
-There is an image from app;
--https://prnt.sc/Dc268C_soh_B
+There is an image from app,https://prnt.sc/Dc268C_soh_B
 
 
 
