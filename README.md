@@ -1,6 +1,7 @@
 # Increase-Decrease App
 
-it is about increase and decrease a number. 
+A flutter project that about increasing and decreasing a number
+
 
 # Image from App
 
